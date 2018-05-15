@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="94px" viewBox="0 0 72 94" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="IS_Platform" transform="translate(-728.000000, -1852.000000)" stroke="#0072f6" stroke-width="2">
+            <g id="lines" transform="translate(599.500000, 1764.500000) rotate(-90.000000) translate(-599.500000, -1764.500000) translate(419.000000, 1564.000000)">
+                <path d="M0,400 L0,389.442655 C0,378.399435 8.94685767,369.447137 19.9909792,369.447137 L72.0090208,369.447137 C83.0497338,369.447137 92,360.495971 92,349.449103 L92,330" id="line4"></path>
+            </g>
+        </g>
+    </g>
+</svg>
